@@ -1,1 +1,3 @@
 
+receiver address:
+bot private key:
